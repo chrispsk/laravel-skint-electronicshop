@@ -1,3 +1,3 @@
-Built from scratch ... 
-Not using Laravel auth features
-Using Eloquent models and relationships. 
+<p>Built from scratch ... </p>
+<p>Not using Laravel auth features</p>
+<p>Using Eloquent models and relationships. </p>
